@@ -1,0 +1,10 @@
+{
+  "new_sts_semrel": {
+    "mE5-large-instruct": 0.5975,
+    "BGE-M3": 0.5523
+  },
+  "new_flores": {
+    "mE5-large-instruct": 0.9802,
+    "BGE-M3": 0.9116
+  }
+}

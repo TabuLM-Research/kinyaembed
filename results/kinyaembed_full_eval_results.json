@@ -1,0 +1,66 @@
+{
+  "KinyaBERT-large_raw": {
+    "sts": 0.3801,
+    "auc": 0.6698,
+    "ap": 0.6274,
+    "bitext_avg": 0.0381,
+    "bitext_en2rw": 0.0402,
+    "bitext_rw2en": 0.036
+  },
+  "LaBSE": {
+    "sts": 0.4535,
+    "auc": 0.7006,
+    "ap": 0.7113,
+    "bitext_avg": 0.209,
+    "bitext_en2rw": 0.2216,
+    "bitext_rw2en": 0.1964
+  },
+  "mE5-large": {
+    "sts": 0.6039,
+    "auc": 0.7726,
+    "ap": 0.7637,
+    "bitext_avg": 0.1168,
+    "bitext_en2rw": 0.1309,
+    "bitext_rw2en": 0.1027
+  },
+  "AfriE5-instruct": {
+    "sts": 0.6037,
+    "auc": 0.7668,
+    "ap": 0.7607,
+    "bitext_avg": 0.1219,
+    "bitext_en2rw": 0.1399,
+    "bitext_rw2en": 0.1039
+  },
+  "kinyaembed_sc35": {
+    "sts": 0.7391,
+    "auc": 0.8563,
+    "ap": 0.8246,
+    "bitext_avg": 0.0456,
+    "bitext_en2rw": 0.0498,
+    "bitext_rw2en": 0.0414
+  },
+  "kinyaembed_step22A": {
+    "sts": 0.7127,
+    "auc": 0.8409,
+    "ap": 0.8033,
+    "bitext_avg": 0.1075,
+    "bitext_en2rw": 0.1273,
+    "bitext_rw2en": 0.0877
+  },
+  "kinyaembed_all5_old": {
+    "sts": 0.7406,
+    "auc": 0.8569,
+    "ap": 0.8283,
+    "bitext_avg": 0.0474,
+    "bitext_en2rw": 0.0523,
+    "bitext_rw2en": 0.0426
+  },
+  "kinyaembed_all5_v9->22A": {
+    "sts": 0.7395,
+    "auc": 0.8562,
+    "ap": 0.8265,
+    "bitext_avg": 0.0553,
+    "bitext_en2rw": 0.0619,
+    "bitext_rw2en": 0.0486
+  }
+}

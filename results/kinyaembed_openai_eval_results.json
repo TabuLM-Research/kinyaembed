@@ -1,0 +1,7 @@
+{
+  "model": "text-embedding-3-large",
+  "sts_spearman": 0.5175,
+  "sts_auc": 0.7176,
+  "opus_p1": 0.0532,
+  "flores_p1": 0.4965
+}

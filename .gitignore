@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+*.egg
+.venv/
+venv/
+env/
+
+# Large model files (checkpoints uploaded to HuggingFace instead)
+kinyaembed_scale*/
+kinyaembed_step*/
+kinyaembed_mnli*/
+kinyaembed_simcse*/
+kinyaembed_chain*/
+kinyaembed_combined*/
+kinyaembed_nli*/
+kinyaembed_lr*/
+kinyaembed_mixed*/
+kinyaembed_distill*/
+*.safetensors
+*.pt
+*.bin
+model.safetensors
+
+# Large data files (available via HuggingFace datasets)
+data/mc4_rw_500k.jsonl
+data/nllb_translated_rw.jsonl
+data/opus100_en_rw/
+data/semrel2024_rw/
+data/eval_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+gen_figures.log

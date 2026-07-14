@@ -1,0 +1,34 @@
+{
+  "dataset": "Wiki-RW-STS (300 unseen pairs)",
+  "n_pairs": 300,
+  "results": {
+    "KinyaEmbed (all5+23A\u00d72)": {
+      "spearman": 0.6005,
+      "auc": 0.8946
+    },
+    "OpenAI text-embedding-3-large": {
+      "spearman": 0.5319,
+      "auc": 0.8877
+    },
+    "BGE-M3": {
+      "spearman": 0.4877,
+      "auc": 0.8429
+    },
+    "mE5-large-instruct": {
+      "spearman": 0.5531,
+      "auc": 0.888
+    },
+    "LaBSE": {
+      "spearman": 0.2197,
+      "auc": 0.6345
+    },
+    "mE5-large": {
+      "spearman": 0.5337,
+      "auc": 0.8725
+    },
+    "AfriE5-instruct": {
+      "spearman": 0.5391,
+      "auc": 0.8846
+    }
+  }
+}

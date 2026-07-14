@@ -1,0 +1,42 @@
+{
+  "KinyaBERT-large_raw": {
+    "flores_p1_avg": 0.1502,
+    "flores_p1_en2kin": 0.1255,
+    "flores_p1_kin2en": 0.1749
+  },
+  "LaBSE": {
+    "flores_p1_avg": 0.9975,
+    "flores_p1_en2kin": 0.997,
+    "flores_p1_kin2en": 0.998
+  },
+  "mE5-large": {
+    "flores_p1_avg": 0.9783,
+    "flores_p1_en2kin": 0.9773,
+    "flores_p1_kin2en": 0.9792
+  },
+  "AfriE5-instruct": {
+    "flores_p1_avg": 0.9946,
+    "flores_p1_en2kin": 0.9951,
+    "flores_p1_kin2en": 0.9941
+  },
+  "kinyaembed_sc35": {
+    "flores_p1_avg": 0.2708,
+    "flores_p1_en2kin": 0.2441,
+    "flores_p1_kin2en": 0.2974
+  },
+  "kinyaembed_step22A": {
+    "flores_p1_avg": 0.291,
+    "flores_p1_en2kin": 0.2994,
+    "flores_p1_kin2en": 0.2826
+  },
+  "kinyaembed_all5_old": {
+    "flores_p1_avg": 0.2717,
+    "flores_p1_en2kin": 0.2421,
+    "flores_p1_kin2en": 0.3014
+  },
+  "kinyaembed_all5_v9->22A": {
+    "flores_p1_avg": 0.2851,
+    "flores_p1_en2kin": 0.2549,
+    "flores_p1_kin2en": 0.3152
+  }
+}
